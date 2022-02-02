@@ -1,0 +1,3 @@
+post-created: 创建于 {{ .Date.Format "2006 年 1 月 2 日" }}
+post-updated: 更新于 {{ .Lastmod.Format "2006 年 1 月 2 日" }}
+page-not-found: 404 页面未找到

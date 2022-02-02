@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="{{ .Language }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{- block "title" . -}}{{ .Title }}{{- end -}}</title>
+{{- partial "head/meta" . }}
+{{ partial "head/opengraph" . }}
+{{ partial "head/twitter" . }}
+{{- partial "head/telegram" . }}
+{{- partial "head/jsonld" . }}
+{{- partial "head/resources" . }}
+</head>
+<body>
+<header><h2><a href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a></h2></header>
+<main>{{- block "main" . }}{{- end }}</main>
+<footer>{{- replace .Site.Copyright "$YEAR$" now.Year | markdownify -}}</footer>
+</body>
+</html>

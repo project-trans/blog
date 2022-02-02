@@ -1,0 +1,16 @@
+@mixin dark {
+  @media screen and (prefers-color-scheme: dark) {
+    @at-root #{selector-nest(':root:not([data-theme])', &)} {
+      @content;
+    }
+  }
+  @at-root #{selector-nest(':root[data-theme=dark]', &)} {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media screen and (min-width: 48rem) {
+    @content;
+  }
+}

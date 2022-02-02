@@ -1,0 +1,14 @@
+{{- define "main" }}
+<article class="content">
+<header>
+<h1>{{ .Title }}</h1>
+<p>
+<time>{{- T "post-created" . -}}</time>
+{{- if ne .Date .Lastmod -}}
+、<time>{{- T "post-updated" . -}}</time>
+{{- end -}}
+</p>
+</header>
+{{- .Content }}
+</article>
+{{- end }}

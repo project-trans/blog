@@ -1,0 +1,20 @@
+{{- define "main" }}
+<article class="content">
+{{ .Content }}
+{{- range .Site.Sections }}
+{{- if .Params.hidden -}}{{- continue -}}{{- end -}}
+<h3 class="list-caption"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h3>
+{{- with .Params.description }}
+<p>{{ . }}</p>
+{{- else }}
+{{ .Content }}
+{{- end }}
+<nav class="posts">
+{{- range .RegularPages }}
+{{- if .Params.hidden -}}{{- continue -}}{{- end -}}
+<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+{{- end }}
+</nav>
+{{- end }}
+</article>
+{{- end }}
