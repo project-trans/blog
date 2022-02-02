@@ -29,10 +29,9 @@ jobs:
         run: hugo --minify
       - name: Deploy `blog.mtf.wiki`
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
-          publish_branch: master
           publish_dir: public
           cname: blog.mtf.wiki
           force_orphan: true
