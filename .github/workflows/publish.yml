@@ -1,0 +1,38 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-20.04
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+      - name: Hugo Cache
+        uses: actions/cache@v2
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: ${{ runner.os }}-hugomod-
+      - name: Build `blog.mtf.wiki`
+        run: hugo --minify
+      - name: Deploy `blog.mtf.wiki`
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          publish_branch: master
+          publish_dir: public
+          cname: blog.mtf.wiki
+          force_orphan: true
