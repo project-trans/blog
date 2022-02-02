@@ -1,0 +1,11 @@
+@mixin dark {
+  @at-root #{selector-nest(':root[data-theme=dark]', &)} {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media screen and (min-width: 48rem) {
+    @content;
+  }
+}

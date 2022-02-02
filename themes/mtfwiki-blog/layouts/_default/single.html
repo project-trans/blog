@@ -1,0 +1,11 @@
+{{- define "main" }}
+<article class="content">
+<header>
+<h1>{{ .Title }}</h1>
+{{- if .Date }}
+<p>{{ cond (eq .Lastmod .Date) (T "post_created" .Date) (T "post_updated" .Lastmod) }}</p>
+{{- end }}
+</header>
+{{- .Content }}
+</article>
+{{- end }}

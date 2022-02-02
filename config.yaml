@@ -1,0 +1,28 @@
+baseURL: https://blog.mtf.wiki
+title: MtF.wiki 非正式笔记
+theme: mtfwiki-blog
+copyright: Copyright &copy; $YEAR$ MtF.wiki
+
+hasCJKLanguage: true
+defaultContentLanguage: zh-CN
+disableKinds: [taxonomy, term]
+enableGitInfo: true
+enableRobotsTXT: true
+googleAnalytics: G-DVB8ZD276Q
+
+params:
+  description: MtF.wiki 非正式笔记
+
+social:
+  twitter: '@MtFwiki'
+  telegram: '@MtFwiki'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+languages:
+  zh-cn:
+    contentDir: content
+    weight: 1

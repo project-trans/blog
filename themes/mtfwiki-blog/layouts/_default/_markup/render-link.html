@@ -1,0 +1,7 @@
+{{- $href := .Destination | safeURL -}}
+{{- $text := .Text | replaceRE `https?://(www\.)?` "" | safeHTML -}}
+{{- $external := hasPrefix ($href | relURL) "http" -}}
+<a href="{{ $href }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if $external }} target="_blank"{{ end -}}
+>{{ $text }}</a>

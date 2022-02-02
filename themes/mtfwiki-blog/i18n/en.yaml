@@ -1,0 +1,2 @@
+post_created: '{{ .Format "January 2, 2006" }}'
+post_updated: 'Updated {{ .Format "January 2, 2006" }}'

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Language }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+{{- block "title" . -}}
+{{- cond .IsHome .Site.Title (print .Title " | " .Site.Title) -}}
+{{- end -}}
+</title>
+{{- partial "head/meta" . }}
+{{ partial "head/opengraph" . }}
+{{- partial "head/jsonld" . }}
+{{- partial "head/resources" . }}
+{{- partial "head/twitter" . }}
+{{- partial "head/telegram" . }}
+</head>
+<body>
+<header><h2><a href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a></h2></header>
+{{- block "main" . }}{{- end }}
+<footer>{{- replace .Site.Copyright "$YEAR$" now.Year | markdownify -}}</footer>
+</body>
+</html>
