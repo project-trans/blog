@@ -1,0 +1,10 @@
+{{- if hasPrefix .Destination "wikipedia:" -}}
+{{- $parsed := urls.Parse .Destination -}}
+{{- $item := $parsed.Host -}}
+{{- $language := $parsed.Path | default "/zh-hans" -}}
+{{- $text := cond (eq .Destination .Text) $item .Text -}}
+<a href="https://zh.wikipedia.org{{ $language }}/{{ $item }}" {{ with .Title }} title="{{ . }}"{{ end }}>{{ $text }}</a>
+{{- else -}}
+{{- $text := .Text | replaceRE "^https?://(www\\.)?" "" -}}
+<a href="{{ .Destination }}" {{ with .Title }} title="{{ . }}"{{ end }}>{{ $text }}</a>
+{{- end -}}
