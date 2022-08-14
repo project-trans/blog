@@ -6,6 +6,7 @@ copyright = '&copy; Copyright MtF.wiki'
 
 [params]
 wpm = 250
+favicon = "favicon.png"
 
 [[menu.main]]
 name = "Home"
