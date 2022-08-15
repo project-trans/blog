@@ -1,7 +1,7 @@
 ---
 title: ADHD/ASD 医疗资源列表
 date: 2022-08-15T13:06:28+08:00
-description: 更多信息可以从 <https://QingShanASD.cn> 了解
+description: 更多信息可以从 QingShanASD.cn 了解
 ---
 
 本文基于 <https://github.com/KristallWang/Transgender-lost-years/blob/master/0002_Medical/Medical_Resources/目前与性别认同相关的医疗资源列表.md> 整理
