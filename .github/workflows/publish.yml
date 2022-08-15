@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-20.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
@@ -25,13 +25,23 @@ jobs:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: ${{ runner.os }}-hugomod-
-      - name: Build `blog.mtf.wiki`
-        run: hugo --minify
-      - name: Deploy `blog.mtf.wiki`
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+      - name: Build
+        run: hugo --minify --enableGitInfo
+      - name: Upload artifact
+        if: github.ref == 'refs/heads/master'
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          cname: blog.mtf.wiki
-          publish_dir: public
-          force_orphan: true
+          path: public
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
