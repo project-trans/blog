@@ -1,0 +1,19 @@
+baseURL: https://blog.mtf.wiki
+languageCode: en-us
+title: MtF.wiki Blog
+theme: ink-free
+copyright: '&copy; Copyright MtF.wiki'
+
+params:
+  wpm: 250
+  favicon: favicon.png
+  customcss: customize.css
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: All posts
+      url: /posts
+      weight: 2

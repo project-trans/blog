@@ -1,0 +1,7 @@
+.markdown {
+  overflow: auto;
+}
+
+.markdown table.csv-table {
+  white-space: nowrap;
+}
