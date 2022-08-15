@@ -5,3 +5,9 @@
 .markdown table.csv-table {
   white-space: nowrap;
 }
+
+.markdown table.csv-table th,
+.markdown table.csv-table td {
+  padding-top: 0;
+  padding-bottom: 0;
+}
