@@ -63,11 +63,16 @@ h3 + nav.posts {
   }
 }
 
+.table-responsive {
+  overflow: auto;
+}
+
 table {
   border-collapse: collapse;
   display: inline-block;
   text-align: left;
   border-top: 0.0625rem solid var(--color-small);
+  white-space: nowrap;
   th,
   td {
     padding: 0.625rem 1.25rem;
