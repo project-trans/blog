@@ -30,12 +30,6 @@ $publisher := dict
   "email" .Site.Author.email
 -}}
 {{-
-$creator := dict
-  "@type" "Organization"
-  "name" "Transfeminine Science"
-  "url" "https://transfemscience.org"
--}}
-{{-
 $brand := dict
   "@context" "https://schema.org"
   "@type" "Organization"
@@ -50,8 +44,6 @@ $article := dict
   "@type" "Article"
   "name" .Title
   "url" .Permalink
-  "creator" $creator
-  "author" $creator
   "headline" .Title
   "wordCount" .WordCount
   "publisher" $publisher
