@@ -23,7 +23,7 @@ jobs:
           hugo-version: latest
           extended: true
       - run: npm ci
-      - run: hugo --minify
+      - run: hugo --minify --buildFuture
       - run: npx wrangler pages publish public --project-name mtfwiki-blog --branch main
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
