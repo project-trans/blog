@@ -2,6 +2,7 @@
 title: Political Depression
 date: 2017-01-13T00:00:00+08:00
 lastmod: 2017-01-16T00:00:00+08:00
+draft: true
 ---
 
 by [Dr. Robert Lusson, Contributor](https://www.huffpost.com/author/lusson-393)
