@@ -1,7 +1,7 @@
 baseURL: https://blog.mtf.wiki
 title: MtF.wiki 非正式笔记
 theme: mtfwiki-blog
-copyright: '&copy; $YEAR$ MtF.wiki'
+copyright: '&copy; $YEAR$ <https://MtF.wiki>'
 
 hasCJKLanguage: true
 defaultContentLanguage: zh-CN
