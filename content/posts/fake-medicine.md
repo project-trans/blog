@@ -2,7 +2,6 @@
 title: 假药收录表格
 date: 2022-02-02T00:00:00+08:00
 description: 本表格记录的未目前已知但尚未确定的假药列表
-draft: true
 ---
 
 ```csv

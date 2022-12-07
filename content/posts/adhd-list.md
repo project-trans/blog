@@ -8,7 +8,7 @@ description: 更多信息可以从 QingShanASD.cn 了解
 
 [transgender-lost-years]: https://github.com/KristallWang/Transgender-lost-years/blob/master/0002_Medical/Medical_Resources/目前与性别认同相关的医疗资源列表.md
 
-更多信息可以从 <https://QingShanASD.cn> 了解
+更多信息可以从 [青衫 Aspie - 致力于孤独症谱系权威资讯资源](https://qingshanasd.cn) 了解
 
 ```csv
 省市,医院,医生,备注
