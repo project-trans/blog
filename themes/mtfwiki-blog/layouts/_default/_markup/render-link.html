@@ -1,7 +1,14 @@
 {{- $href := .Destination | safeURL -}}
+{{- $parsed := urls.Parse .Destination -}}
 {{- $text := .Text | replaceRE `https?://(www\.)?` "" | safeHTML -}}
 {{- $external := hasPrefix ($href | relURL) "http" -}}
+{{- if eq $parsed.Scheme "mailto" -}}
+{{- $address := $parsed.Opaque | base64Encode -}}
+{{- $text := cond (eq $text $parsed.Opaque) "" $text | safeHTML -}}
+<a href="mailto:{{ $address }}">{{ $text }}</a>
+{{- else -}}
 <a href="{{ $href }}"
   {{- with .Title }} title="{{ . }}"{{ end -}}
   {{- if $external }} target="_blank"{{ end -}}
 >{{ $text }}</a>
+{{- end -}}

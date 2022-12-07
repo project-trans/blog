@@ -1,15 +1,13 @@
 const ready = new Promise<void>((resolve) => {
-  if (document.readyState === 'interactive') {
-    return resolve()
-  }
+  if (document.readyState === 'interactive') return resolve()
   document.addEventListener('readystatechange', () => {
-    if (document.readyState === 'interactive') {
-      resolve()
-    }
+    if (document.readyState === 'interactive') resolve()
   })
 })
 
-ready.then(onTheme).then(onTableResponsive)
+document.currentScript!.remove()
+
+ready.then(onTheme).then(onTableResponsive).then(onRestoreEmailAddress)
 
 function onTheme() {
   const matched = matchMedia('(prefers-color-scheme: dark)')
@@ -31,5 +29,18 @@ function onTableResponsive() {
     responsive.className = 'table-responsive'
     responsive.append(element.cloneNode(true))
     element.replaceWith(responsive)
+  }
+}
+
+function onRestoreEmailAddress() {
+  const content = document.querySelector('article.content')
+  if (!content) return
+  const links = content.querySelectorAll<HTMLAnchorElement>('a[href^="mailto:"]')
+  for (const link of links) {
+    const address = atob(link.pathname)
+    link.href = `mailto:${address}`
+    if (link.textContent === '') {
+      link.textContent = address
+    }
   }
 }
