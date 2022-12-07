@@ -7,19 +7,7 @@ const ready = new Promise<void>((resolve) => {
 
 document.currentScript!.remove()
 
-ready.then(onTheme).then(onTableResponsive).then(onRestoreEmailAddress)
-
-function onTheme() {
-  const matched = matchMedia('(prefers-color-scheme: dark)')
-
-  matched.addEventListener('change', setTheme)
-
-  setTheme(matched)
-
-  function setTheme(event: { matches: boolean }) {
-    document.documentElement.dataset.theme = event.matches ? 'dark' : 'light'
-  }
-}
+ready.then(onTableResponsive).then(onRestoreEmailAddress)
 
 function onTableResponsive() {
   const content = document.querySelector('.content')
