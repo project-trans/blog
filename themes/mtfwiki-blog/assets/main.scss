@@ -14,7 +14,6 @@
   overflow-wrap: break-word;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
   scroll-padding-top: 1.5rem;
 }
 
@@ -46,7 +45,7 @@ body {
     width: 48rem;
   }
   > header {
-    margin: 1.5625rem 0;
+    margin: 1.5rem 0;
     a {
       text-decoration: none;
 
@@ -72,10 +71,11 @@ body {
     flex: 1;
   }
   > footer {
-    font-size: 1.4rem;
-    font-weight: 400;
+    font-size: 1.25rem;
 
     padding: 1rem 0 2.5rem;
+
+    text-align: center;
 
     color: #b3b3b3;
   }

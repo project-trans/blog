@@ -114,7 +114,7 @@ h6 {
   }
 }
 
-h3 {
+h3.list-caption {
   font-size: 1.9rem;
   line-height: 1.15;
 
@@ -164,6 +164,7 @@ figure {
       max-width: 108%;
     }
   }
+
   img {
     display: block;
 
@@ -241,11 +242,12 @@ pre {
     margin-left: -3.8%;
     padding: 1.5rem 2.2rem;
   }
+
   code {
     padding: 0;
   }
 }
 
 .footnotes {
-  font-size: 0.9em;
+  font-size: 0.9rem;
 }

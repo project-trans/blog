@@ -1,6 +1,6 @@
 {{- define "main" }}
 <article class="content">
-<h3>{{ .Title }}</h3>
+<h3 class="list-caption">{{ .Title }}</h3>
 {{ .Content }}
 <nav class="posts">
 {{- $pages := where .Pages "Params.hidden" "!=" "true" }}
