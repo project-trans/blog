@@ -17,7 +17,7 @@
 </head>
 <body>
 <header><h2><a href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a></h2></header>
-{{- block "main" . }}{{- end }}
+<main>{{- block "main" . }}{{- end }}</main>
 <footer>{{- replace .Site.Copyright "$YEAR$" now.Year | markdownify -}}</footer>
 </body>
 </html>
