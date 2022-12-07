@@ -2,10 +2,10 @@
 <link rel="icon" href="{{ .Permalink }}">
 <link rel="apple-touch-icon" href="{{ .Permalink }}">
 {{- end }}
-{{- with resources.Get "main.ts" | js.Build | minify }}
+{{- with resources.Get "main.ts" | js.Build | minify | fingerprint }}
 <script src="{{ .Permalink }}"></script>
 {{- end }}
-{{- with resources.Get "main.scss" | toCSS | minify }}
+{{- with resources.Get "main.scss" | toCSS | minify | fingerprint }}
 <link rel="stylesheet" href="{{ .Permalink }}">
 {{- end }}
 {{- if not .Site.IsServer }}
