@@ -3,7 +3,13 @@
 <header>
 <h1>{{ .Title }}</h1>
 {{- if .Date }}
-<p>{{ cond (eq .Lastmod .Date) (T "post_created" .Date) (T "post_updated" .Lastmod) }}</p>
+{{-
+$key := cond
+  (eq .Lastmod .Date)
+  "post-created"
+  "post-updated"
+-}}
+<p>{{ T $key . }}</p>
 {{- end }}
 </header>
 {{- .Content }}
