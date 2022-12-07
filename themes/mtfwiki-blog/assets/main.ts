@@ -2,7 +2,7 @@ const ready = new Promise<void>((resolve) => {
   if (document.readyState === 'interactive') {
     return resolve()
   }
-  document.addEventListener('readystatechange', (event) => {
+  document.addEventListener('readystatechange', () => {
     if (document.readyState === 'interactive') {
       resolve()
     }
