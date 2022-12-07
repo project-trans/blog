@@ -1,0 +1,18 @@
+{{- define "main" }}
+<article class="content">
+{{ .Content }}
+{{- range .Site.RegularPages.GroupBy "Section" }}
+{{- $pages := where .Pages "Params.hidden" "!=" "true" }}
+{{- if not $pages -}}{{- continue -}}{{- end }}
+{{- with site.GetPage "section" .Key }}
+<header><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3></header>
+{{ .Content }}
+{{- end }}
+<nav class="posts">
+{{- range $pages }}
+<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+{{- end }}
+</nav>
+{{- end }}
+</article>
+{{- end }}

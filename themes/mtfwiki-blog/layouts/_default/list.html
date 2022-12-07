@@ -1,14 +1,11 @@
 {{- define "main" }}
 <article class="content">
-{{- range .Site.RegularPages.GroupBy "Section" }}
-{{- $pages := where .Pages "Params.hidden" "!=" "true" }}
-{{- if not $pages -}}{{- continue -}}{{- end }}
-<h3>{{ (site.GetPage "section" .Key).Title }}</h3>
+<h3>{{ .Title }}</h3>
+{{ .Content }}
 <nav class="posts">
-{{- range $pages }}
+{{- range .Pages }}
 <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
 {{- end }}
 </nav>
-{{- end }}
 </article>
 {{- end }}
