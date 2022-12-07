@@ -9,7 +9,7 @@ const ready = new Promise<void>((resolve) => {
   })
 })
 
-ready.then(onTheme).then(onTableResponsive)
+ready.then(onTheme).then(onTableResponsive).then(onOfflinePage)
 
 function onTheme() {
   const matched = matchMedia('(prefers-color-scheme: dark)')
@@ -32,4 +32,21 @@ function onTableResponsive() {
     responsive.append(element.cloneNode(true))
     element.replaceWith(responsive)
   }
+}
+
+async function onOfflinePage() {
+  const registration = await navigator.serviceWorker.ready
+  if (!('index' in registration)) return
+  const key = meta('meta[name=page-key]')!
+  await registration.index.add({
+    id: key,
+    url: location.href,
+    title: document.title,
+    description: meta('meta[name=description]')!,
+    category: key === 'home' ? 'homepage' : 'article',
+  })
+}
+
+function meta(selector: string) {
+  return document.head.querySelector<HTMLMetaElement>(selector)?.content
 }
