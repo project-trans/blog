@@ -1,7 +1,7 @@
 ---
 title: ADHD/ASD 医疗资源列表
+description: 更多信息可以从“青衫 Aspie”了解
 date: 2022-08-15T00:00:00+08:00
-description: 更多信息可以从 QingShanASD.cn 了解
 ---
 
 本文基于 [Transgender-lost-years] 整理

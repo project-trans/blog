@@ -1,8 +1,8 @@
 ---
 title: 对于国内各医院对“性别不一致”（MtF）诊断流程的一些看法
 linkTitle: 对国内“性别不一致”诊断流程的一些看法
-date: 2022-08-14T00:00:00+08:00
 description: 关于对 CCMD-3 诊断标准及后果的讨论
+date: 2022-08-14T00:00:00+08:00
 ---
 
 本文转载自 <https://zhuanlan.zhihu.com/p/101582151> (<https://archive.ph/HTtCN>)
