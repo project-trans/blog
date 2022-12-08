@@ -1,4 +1,4 @@
-{{ $rows := .Inner | transform.Unmarshal }}
+{{- $rows := .Inner | transform.Unmarshal -}}
 <table>
 <thead><tr>{{ range (index $rows 0) }}<th>{{- . | markdownify -}}</th>{{ end }}</tr></thead>
 {{- $rows = after 1 $rows }}
