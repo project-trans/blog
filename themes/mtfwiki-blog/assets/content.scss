@@ -116,14 +116,14 @@ h6 {
     }
   }
 
-  &:hover a[href^='#'] {
-    visibility: visible;
-  }
-
-  a[href^='#'] {
+  a[href^='#']:last-child {
     visibility: hidden;
     vertical-align: super;
     font-size: smaller;
+  }
+
+  &:hover a[href^='#']:last-child {
+    visibility: visible;
   }
 }
 
