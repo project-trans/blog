@@ -3,11 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-{{- block "title" . -}}
-{{- cond .IsHome .Site.Title (print .Title " | " .Site.Title) -}}
-{{- end -}}
-</title>
+<title>{{- block "title" . -}}{{ .Title }}{{- end -}}</title>
 {{- partial "head/meta" . }}
 {{ partial "head/opengraph" . }}
 {{- partial "head/jsonld" . }}
