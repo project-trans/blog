@@ -3,10 +3,10 @@
 <header>
 <h1>{{ .Title }}</h1>
 <p>
-{{- if ne .Date .Lastmod -}}
 <time>{{- T "post-created" . -}}</time>、
-{{- end -}}
+{{- if ne .Date .Lastmod -}}
 <time>{{- T "post-updated" . -}}</time>
+{{- end -}}
 </p>
 </header>
 {{- .Content }}
