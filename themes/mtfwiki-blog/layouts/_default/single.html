@@ -2,15 +2,12 @@
 <article class="content">
 <header>
 <h1>{{ .Title }}</h1>
-{{- if .Date }}
-{{-
-$key := cond
-  (eq .Lastmod .Date)
-  "post-created"
-  "post-updated"
--}}
-<p>{{ T $key . }}</p>
-{{- end }}
+<p>
+{{- if ne .Date .Lastmod -}}
+<time>{{- T "post-created" . -}}</time>、
+{{- end -}}
+<time>{{- T "post-updated" . -}}</time>
+</p>
 </header>
 {{- .Content }}
 </article>
