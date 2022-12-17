@@ -18,8 +18,8 @@ author:
   email: hi@mtf.wiki
 
 social:
-  twitter: '@MtFwiki'
-  telegram: '@MtFwiki'
+  twitter: MtFwiki
+  telegram: MtFwiki
 
 markup:
   goldmark:

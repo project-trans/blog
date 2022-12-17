@@ -6,10 +6,10 @@
 <title>{{- block "title" . -}}{{ .Title }}{{- end -}}</title>
 {{- partial "head/meta" . }}
 {{ partial "head/opengraph" . }}
+{{ partial "head/twitter" . }}
+{{- partial "head/telegram" . }}
 {{- partial "head/jsonld" . }}
 {{- partial "head/resources" . }}
-{{- partial "head/twitter" . }}
-{{- partial "head/telegram" . }}
 </head>
 <body>
 <header><h2><a href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a></h2></header>
