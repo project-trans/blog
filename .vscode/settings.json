@@ -2,5 +2,9 @@
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
+  },
+  "files.associations": {
+    "**/layouts/sitemap.xml": "plaintext",
+    "**/layouts/sitemapindex.xml": "plaintext"
   }
 }
