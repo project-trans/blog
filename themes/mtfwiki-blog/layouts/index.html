@@ -10,7 +10,7 @@
 {{ .Content }}
 {{- end }}
 <nav class="posts">
-{{- range where .Pages "Kind" "page" }}
+{{- range .RegularPages }}
 {{- if .Params.hidden -}}{{- continue -}}{{- end -}}
 <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
 {{- end }}
