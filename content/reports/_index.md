@@ -1,5 +1,6 @@
 ---
 title: MtF.wiki 报告
+linkTitle: 报告
 description: 本列表用于发布 MtF.wiki 工作组在过去一年整理关于跨性别群体相关的新闻及工作报告
 weight: 1
 ---
