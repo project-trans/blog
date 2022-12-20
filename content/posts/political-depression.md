@@ -15,6 +15,6 @@ date: 2022-12-01T00:00:00+08:00
 
 - [结构性暴力](https://zh.wikipedia.org/wiki/结构性暴力)
 - [看理想｜政治性 emo 了，怎么办？](https://chinadigitaltimes.net/chinese/678305.html)
-- [Political Depression][] (https://archive.ph/JcMzj)（英文，标题：“政治性抑郁”）
+- [Political Depression][] (<https://archive.ph/JcMzj>)（英文，标题：“政治性抑郁”）
 
 [political depression]: https://www.huffpost.com/entry/political-depression_b_5879574ae4b077a19d180dbe
