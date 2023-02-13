@@ -3,7 +3,11 @@ title: 日本前首相秘书官荒川胜喜解职事件后续整理
 date: 2023-02-13T10:44:32+08:00
 ---
 
-本文转载自 柑橘与百合 <https://t.me/CitrusAndLilium/156> / <https://twitter.com/MtFwiki/status/1624946875681083392> 并稍加整理
+本文转载自 <https://t.me/CitrusAndLilium/156>（<https://archive.is/8h8mk>） 并稍加整理
+
+[柑橘与百合](https://www.youtube.com/@citrusandlilium) 是一个友跨的华语 YouTube 频道，旨在以一个酷儿的视角来看世界。
+
+注：本文由柑橘与百合制作组的无限飞机头编撰。
 
 ---
 
