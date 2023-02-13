@@ -3,7 +3,7 @@ title: 日本前首相秘书官荒川胜喜解职事件后续整理
 date: 2023-02-13T10:44:32+08:00
 ---
 
-本文转载自 <https://t.me/CitrusAndLilium/156> 并稍加整理
+本文转载自 柑橘与百合 <https://t.me/CitrusAndLilium/156> / <https://twitter.com/MtFwiki/status/1624946875681083392> 并稍加整理
 
 ---
 
