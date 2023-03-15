@@ -3,7 +3,11 @@ title: 驳 AG 论
 date: 2023-03-15T22:52:34+08:00
 ---
 
-本文全文转载自 <https://zhuanlan.zhihu.com/p/59510858> (<https://archive.is/KhHh3>)
+本文全文转载自 <https://zhuanlan.zhihu.com/p/59510858> (<https://archive.is/KhHh3>) 作为存档备份
+
+本文发布于：2019-03-17T14:19:00+08:00
+
+并重新调整排版，改善阅读体验
 
 ---
 
