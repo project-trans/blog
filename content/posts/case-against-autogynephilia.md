@@ -128,10 +128,12 @@ Blanchard 的模型提出了两项病因学主张。第一项主张跨性别性�
 - American Psychiatric Association. (2000). Diagnostic and statistical manual of mental disorders(4th ed., text rev.). Washington, DC: Author.
 - American Psychological Association Task Force on the Sexualization of Girls. (2007). Report of the APA Task Force on the sexualization of girls. Washington, DC: Author. Retrieved September 14, 2010, from <http://apa.org/pi/women/programs/girls/report.aspx>
 - Bailey, J. M. (2003). The man who would be queen: The science of gender-bending and transsexualism. Washington, DC: Joseph Henry Press.
-- Bailey, J. M., & Triea, K. (2007). What many transgender activists don’t want you to know: And why you should know it anyway. Perspectives in Biology and Medicine, 50, 521–534.
-- Barnes, K. (2001). Some observations on autogynephilia. Transgender Tapestry, 1(93), 24–62. Bettcher, T. M. (2007). Evil deceivers and make-believers: On transphobic violence and the politics of illusion. Hypatia, 22, 43–65.
+- Bailey, J. M., & Triea, K. (2007). What many transgender activists don't want you to know: And why you should know it anyway. Perspectives in Biology and Medicine, 50, 521–534.
+- Barnes, K. (2001). Some observations on autogynephilia. Transgender Tapestry, 1(93), 24–62.
+- Bettcher, T. M. (2007). Evil deceivers and make-believers: On transphobic violence and the politics of illusion. Hypatia, 22, 43–65.
 - Blanchard, R. (1985). Typology of male-to-female transsexualism. Archives of Sexual Behavior, 14, 247–261.
-- Blanchard, R. (1988). Nonhomosexual gender dysphoria. Journal of Sex Research, 24, 188–193. Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias. Archives of Sexual Behavior, 18, 315–334.
+- Blanchard, R. (1988). Nonhomosexual gender dysphoria. Journal of Sex Research, 24, 188–193.
+- Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias. Archives of Sexual Behavior, 18, 315–334.
 - Blanchard, R. (1989b). The concept of autogynephilia and the typology of male gender dysphoria. Journal of Nervous and Mental Disease, 177, 616–623.
 - Blanchard, R. (1991). Clinical observations and systematic studies of autogynephilia. Journal of Sex and Marital Therapy, 17, 235–251.
 - Blanchard, R. (1992). Nonmonotonic relation of autogynephilia and heterosexual attraction. Journal of Abnormal Psychology, 101, 271–276.
@@ -145,8 +147,8 @@ Blanchard 的模型提出了两项病因学主张。第一项主张跨性别性�
 - Buhrich, N., & Beaumont, T. (1981). Comparison of transvestism in Australia and America. Archives of Sexual Behavior, 10, 269–279.
 - Buhrich, N., & McConaghy, N. (1977a). The clinical syndromes of femmiphilic transvestism. Archives of Sexual Behavior, 6, 397–412.
 - Buhrich, N., & McConaghy, N. (1977b). The discrete syndromes of transvestism and transsexualism. Archives of Sexual Behavior, 6, 483–495.
-- Currah, P., Juang, R. M., & Minter, S. P. (Eds.). (2006). Transgender rights. Minneapolis, MN: University of Minnesota Press. Deogracias, J., Johnson, L., Meyer-Bahlburg, H., Kessler,
-- S., Schober, J., & Zucker, K. (2007). The gender identity/gender dysphoria questionnaire for adolescents and adults. Journal of Sex Research, 44, 370–379.
+- Currah, P., Juang, R. M., & Minter, S. P. (Eds.). (2006). Transgender rights. Minneapolis, MN: University of Minnesota Press.
+- Deogracias, J., Johnson, L., Meyer-Bahlburg, H., Kessler, S., Schober, J., & Zucker, K. (2007). The gender identity/gender dysphoria questionnaire for adolescents and adults. Journal of Sex Research, 44, 370–379.
 - Doorn, C. D., Poortinga, J., & Verschoor, A. M. (1994). Cross-gender identity in transvestites and male transsexuals. Archives of Sexual Behavior, 23, 185–201.
 - Freund, K., & Blanchard, R. (1993). Erotic target location errors in male gender dysphorics, paedophiles, and fetishists. British Journal of Psychiatry, 162, 558–563.
 - Gooren, L. (2006). The biology of human psychosexual differentiation. Hormones and Behavior, 50, 589–601.
@@ -154,7 +156,7 @@ Blanchard 的模型提出了两项病因学主张。第一项主张跨性别性�
 - Hooker, E. (1957). The adjustment of the male overt homosexual. Journal of Projective Techniques, 21, 18–31.
 - Jeffreys, S. (2005). Beauty and misogyny: Harmful cultural practices in the West. New York: Routledge.
 - Lane, R. (2008). Truth, lies, and trans science. Archives of Sexual Behavior, 37, 453–456.
-- Lawrence, A. A. (2004). Autogynephilia: A paraphilic model of gender identity disorder. In U. Leli & J. Drescher (Eds.), Transgender subjectivities: A clinician’s guide (pp. 69–87). Binghamton, NY: Haworth Press.
+- Lawrence, A. A. (2004). Autogynephilia: A paraphilic model of gender identity disorder. In U. Leli & J. Drescher (Eds.), Transgender subjectivities: A clinician's guide (pp. 69–87). Binghamton, NY: Haworth Press.
 - Lawrence, A. A. (2005). Sexuality before and after maleto-female sex reassignment surgery. Archives of Sexual Behavior, 34, 147–166.
 - Lawrence, A. A. (2006). Clinical and theoretical parallels between desire for limb amputation and gender identity disorder. Archives of Sexual Behavior, 35, 263–278.
 - Lawrence, A. A. (2007). Becoming what we love: Autogynephilic transsexualism conceptualized as an expression of romantic love. Perspectives in Biology and Medicine, 50, 506–520.
@@ -166,14 +168,15 @@ Blanchard 的模型提出了两项病因学主张。第一项主张跨性别性�
 - Moser, C. (2008). A different perspective. Archives of Sexual Behavior, 37, 366–421.
 - Moser, C. (2009a). Autogynephilia in women. Journal of Homosexuality, 56, 539–547.
 - Moser, C. (2009b). When is an unusual sexual interest a mental disorder? Archives of Sexual Behavior, 38, 323–325.
-- Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum, A., Macri, M., et al. (2009). A further assessment of Blanchard’s typology of homosexual versus non-homosexual or autogynephilic gender dysphoria. Archives of Sexual Behavior. Advance online publication. doi: [10.1007/s10508-009-9579-2](https://doi.org/10.1007/s10508-009-9579-2)
-- O’Leary, D. (2009, June 25). Legalizing deception: Why “gender identity” should not be added to antidiscrimination legislation. Catholic Exchange. Retrieved June 27, 2009, from <http://catholicexchange.com/2009/06/25/119728/>
+- Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum, A., Macri, M., et al. (2009). A further assessment of Blanchard's typology of homosexual versus non-homosexual or autogynephilic gender dysphoria. Archives of Sexual Behavior. Advance online publication. doi: [10.1007/s10508-009-9579-2](https://doi.org/10.1007/s10508-009-9579-2)
+- O'Leary, D. (2009, June 25). Legalizing deception: Why “gender identity” should not be added to antidiscrimination legislation. Catholic Exchange. Retrieved June 27, 2009, from <http://catholicexchange.com/2009/06/25/119728/>
 - Ovesey, L., & Person, E. (1976). Transvestism: A disorder of the sense of self. International Journal of Psychoanalytic Psychotherapy, 5, 219–236.
 - Serano, J. (2007). Whipping girl: A transsexual woman on sexism and the scapegoating of femininity. Emeryville, CA: Seal Press.
 - Serano, J. (2009, June). Psychology, sexualization and trans-invalidations. Keynote lecture presented at the 8th Annual Philadelphia Trans-Health Conference. Retrieved July 14, 2009, from <http://www.juliaserano.com/av/Serano-TransInvalidations.pdf>
 - Smith, Y. L. S., van Goozen, S., Kupier, A. & CohenKettenis, P. T. (2005). Transsexual subtypes: Clinical and theoretical significance. Psychiatry Research, 137, 151–160.
-- Sullivan, N. (2008). Dis-orienting paraphilias? Disability, desire, and the question of (bio)ethics. Journal of Bioethical Inquiry, 5, 183–192. Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of male-to-female transsexuals. Archives of Sexual Behavior, 37, 586–597.
+- Sullivan, N. (2008). Dis-orienting paraphilias? Disability, desire, and the question of (bio)ethics. Journal of Bioethical Inquiry, 5, 183–192.
+- Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of male-to-female transsexuals. Archives of Sexual Behavior, 37, 586–597.
 - Wilkinson, P. (2006, January 12). The mystery of Larry Wachowski. Rolling Stone. Retrieved July 17, 2009, from <http://web.archive.org/web/20060115061830/http://www.rollingstone.com/news/story/_/id/9138137>
 - Winters, K. (2008). Gender madness in American psychiatry: Essays from the struggle for dignity. Dillon, CO: GID Reform Advocates.
-- Wyndzen, M. H. (2003). Autogynephilia and Ray Blanchard’s mis-directed sex-drive model of transsexuality. Retrieved January 9, 2009, from <http://www.GenderPsychology.org/autogynpehilia/ray_blanchard/>
+- Wyndzen, M. H. (2003). Autogynephilia and Ray Blanchard's mis-directed sex-drive model of transsexuality. Retrieved January 9, 2009, from <http://www.GenderPsychology.org/autogynpehilia/ray_blanchard/>
 - Wyndzen, M. H. (2005). The world according to J. Michael Bailey inside The man who would be queen: The science of gender bending and transsexualism. Retrieved January 9, 2009, from <http://www.GenderPsychology.org/autogynpehilia/j_michael_bailey/>
