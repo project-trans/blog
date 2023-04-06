@@ -18,9 +18,13 @@ description: 本报告旨在勘误「2022 年度报告」中的错误
 
 - 2022 年 1 月 [Apple 将 LGBTQ+ 交友应用 Grindr 从中国区 App Store 下架](https://9to5mac.com/2022/01/31/grindr-removed-from-app-store-china/) ([存档](https://web.archive.org/web/20230302082335/https://9to5mac.com/2022/01/31/grindr-removed-from-app-store-china/))
 
+- 2022 年 4 月 [因性別教育法案槓上佛州議會 迪士尼將被拔除自治區特權](https://news.ltn.com.tw/news/world/breakingnews/3901563)
+
 - 2022 年 6 月 [上海市突发公共事件心理应急干预专业人力资源现状研究](http://www.oher.com.cn/cn/article/doi/10.16369/j.oher.issn.1007-1326.2022.03.009) 发表\
   DOI: 10.16369/j.oher.issn.1007-1326.2022.03.009 \[[PDF](http://www.oher.com.cn/fileZYWSYYJJY/journal/article/zywsyyjjy/2022/3/PDF/zywsyyjjy-40-3-305.pdf)]
 
 - 2022 年 7 月 [健民药业集团](http://www.whjm.com) 发布 [2022 年半年年度报告](http://www.whjm.com/upload/file/2022/08/08/e67e2d84891344749fd00ed2235d6927.pdf)，中宣称 2022 年上半年「雌二醇凝胶」销售达 67.48 万盒（[存档](https://web.archive.org/web/20230222023326/http://www.whjm.com/upload/file/2022/08/08/e67e2d84891344749fd00ed2235d6927.pdf)）
+
+- 2022 年 8 月 [《罪恶装备》新角色被认定为跨性别女孩](https://club.gamersky.com/activity/603328)
 
 - 2022 年 9 月 [Cloudflare 屏蔽 Kiwifarms](https://blog.cloudflare.com/zh-cn/kiwifarms-blocked-zh-cn/) ([存档](https://web.archive.org/web/20230302082559/https://blog.cloudflare.com/zh-cn/kiwifarms-blocked-zh-cn/))
