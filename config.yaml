@@ -28,8 +28,3 @@ markup:
     parser:
       attribute:
         block: true
-
-languages:
-  zh-cn:
-    contentDir: content
-    weight: 1
