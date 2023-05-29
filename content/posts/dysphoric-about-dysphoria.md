@@ -1,5 +1,6 @@
 ---
-title: 什么是“烦躁”？dysphoria和焦虑抑郁有什么区别？
+title: 什么是“烦躁”？dysphoria 和焦虑抑郁有什么区别？
+description: “dysphoria（烦躁）”这个词在精神病学中的应用往往不明确且模糊，但是当一个术语越模糊，它们一旦被频繁的使用，越可能成为一种时尚。
 date: 2023-05-29T13:15:20+0800
 ---
 
@@ -9,7 +10,7 @@ date: 2023-05-29T13:15:20+0800
 
 ## 文献导读 {#introduction}
 
-> Starcevic, Vladan (2007). Dysphoric About Dysphoria: Towards a Greater Conceptual Clarity of the Term. Australasian Psychiatry, 15(1), 9–13. doi:[10.1080/10398560601083035](https://doi.org/10.1080/10398560601083035)
+> Starcevic V. Dysphoric About Dysphoria: Towards a Greater Conceptual Clarity of the Term. Australasian Psychiatry. 2007;15(1):9-13. doi: <https://doi.org/10.1080/10398560601083035>
 
 “dysphoria（烦躁）”这个词在精神病学中的应用往往不明确且模糊，但是当一个术语越模糊，它们一旦被频繁的使用，越可能成为一种时尚。
 dysphoria 这个词汇的流行可归因于几个概念的普及，但是这些概念中使用的 dysphoria 在概念上有许多不一致：
@@ -22,7 +23,7 @@ Gender Dysphoria（性别烦躁）
 : gender dysphoria 意味着对自己生理性别的不适（discomfort），包含了不愉快（unhappiness）、讨厌（discontent）和 憎恨（aversion）。
 
 Premenstrual Dysphoric Disorder（经前烦躁）
-: premenstrual dysphoricdisorder 类似抑郁发作，但是加上了 irritability（易激惹）, mood instability（情绪不稳）, symptoms ofanxiety（焦虑症状）和 certain physical symptoms（特定的躯体症状）。
+: premenstrual dysphoric disorder 类似抑郁发作，但是加上了 irritability（易激惹）, mood instability（情绪不稳）, symptoms ofanxiety（焦虑症状）和 certain physical symptoms（特定的躯体症状）。
 
 Neuroleptic Dysphoria
 : 这个概念被用来指第一代抗精神病药的不良反应，但概念更广泛，包括了个体对精神病药的 aversion（厌恶），还包含了一系列副作用包含 excessive tiredness（疲倦）、decreased energy（乏力）、reduced interest and motivation（兴趣缺乏）、low mood（情绪低）、anxiety（焦虑）、slowed thinking（想法慢）、hostility（敌对）与 anger（愤怒）以及一系列行为症状 various motor symptoms。这些症状被认为与椎体外系不良反应相关。
@@ -77,9 +78,9 @@ dysphoria 和焦虑共同点包含着紧张以及潜在的过度情绪，可以�
 
 ### 双相 {#biphasic}
 
-dysphoria 越来越多地被视为双相的第三相（a third mood quality[^7];third dimension[^8]；third pole[^9]），是混合状态的一种，在这一相里面，以不愉快、憎恨和易激惹为特点。
+dysphoria 越来越多地被视为双相的第三相（a third mood quality[^7];third dimension[^3]；third pole[^4]），是混合状态的一种，在这一相里面，以不愉快、憎恨和易激惹为特点。
 又被视为“bad highs”或是“dysphoric mania”，但是这种称呼容易让人将 dysphoria 与躁狂状态混爻，因为这种状态不同于躁狂状态。
-还有人认为，包含了 dysphoria 状态的双相也许应该要叫作“三相障碍 tripolar disorder”更合适[^10]。
+还有人认为，包含了 dysphoria 状态的双相也许应该要叫作“三相障碍 tripolar disorder”更合适[^8]。
 
 ### 人格障碍 {#personality-disorder}
 
@@ -92,7 +93,7 @@ dysphoria 越来越多地被视为双相的第三相（a third mood quality[^7];
 妄想障碍、偏执狂往往存在 dysphoria，可能源于慢性烦躁不安的情绪。
 鉴于烦躁个体倾向于将他人视为其不满和不快乐的原因，这是可以理解的。
 慢性妄想障碍和 dysphoria 有时会交织在一起。
-有趣的是，人们发现妄想障碍中的 dysphoria 在很长一段时间内具有很高的稳定性[^11]。
+有趣的是，人们发现妄想障碍中的 dysphoria 在很长一段时间内具有很高的稳定性[^9]。
 这种情况可能会对治疗产生影响，并可能在抗精神病药物中添加情绪稳定剂。
 
 ### 经前烦躁 {#premenstrual-dysphoric-disorder}
@@ -109,14 +110,12 @@ dysphoria 越来越多地被视为双相的第三相（a third mood quality[^7];
 
 这两个词有许多共同处，有时候可以等同使用，dysphoria 的概念比 irritability 更广泛，故有人认为 irritability 和 dysphoria 同时使用是用词不当且多余的。
 
-[^1]: Cassidy F, Ahearn E, Murry E, Forest K, Carroll BJ. Diagnosticdepressive symptoms of the mixed bipolar episode. Psychological Medicine 2000;30: 403 - 411.
-[^2]: Dilsaver SC, Chen YR, Shoaib AM, Swann AC. Phenomenology of mania:evidence for distinct depressed, dysphoric, and euphoric presentations.American Journal of Psychiatry 1999; 156: 426-430.
-[^3]: Dayer A, Aubry J-M, Roth L, Ducrey S, Bertschy G. A theoreticalreappraisal of mixed states: dysphoria as a third dimension. Bipolar Disorders 2000; 2: 316-324.
-[^4]: Stanghellini G. Dysphoria as a nosographical dis-organizer.European Psychiatry 1998; 13 (Suppl 4): 153s.
-[^5]: Sandberg R. Zur Psychopathologie der chronischen Paranoia.Allgemeine Zeitschrift fur Psychiatrie und Psychisch-Gerichtl Medizin 1896; 52:619-654.
-[^6]: Specht G. U¨ ber den pathologischen Affekt in der chronischenParanoia. Festschrift der Erlanger Universita¨ t. Leipzig: Bo¨hme, 1901.
-[^7]: Berner B, Musalek M, Walter H. Psychopathological concepts ofdysphoria. Psychopathology 1987; 20: 93-100.
-[^8]: Dayer A, Aubry J-M, Roth L, Ducrey S, Bertschy G. A theoreticalreappraisal of mixed states: dysphoria as a third dimension. Bipolar Disorders 2000; 2: 316-324.
-[^9]: Stanghellini G. Dysphoria as a nosographical dis-organizer.European Psychiatry 1998; 13 (Suppl 4): 153s.
-[^10]: Musalek M, Lesch OM, Kieffer W. Dysphoric states in the course ofmanic-depressive illness. Psychopathology 1987; 20: 107-114.
-[^11]: Gabriel E. Dysphoric mood in paranoid psychosis. Psychopathology 1987; 20: 101-106.
+[^1]: Cassidy F, Ahearn E, Murry E, Forest K, Carroll BJ. Diagnostic depressive symptoms of the mixed bipolar episode. Psychol Med. 2000 Mar;30(2):403-11. doi: <https://doi.org/10.1017/s0033291799001312>. PMID: 10824660.
+[^2]: Dilsaver SC, Chen YR, Shoaib AM, Swann AC. Phenomenology of mania: evidence for distinct depressed, dysphoric, and euphoric presentations. Am J Psychiatry. 1999 Mar;156(3):426-30. doi: <https://doi.org/10.1176/ajp.156.3.426>. PMID: 10080559.
+[^3]: Dayer A, Aubry JM, Roth L, Ducrey S, Bertschy G. A theoretical reappraisal of mixed states: dysphoria as a third dimension. Bipolar Disord. 2000 Dec;2(4):316-24. doi: <https://doi.org/10.1034/j.1399-5618.2000.020404.x>. PMID: 11252643.
+[^4]: Stanghellini, G. (1998). Dysphoria as a nosographical dis-organizer. European Psychiatry, 13(S4), 153s-153s. doi: <https://doi.org/10.1016/S0924-9338(99)80080-7>
+[^5]: Sandberg, R. (1896). Zur Psychopathologie der chronischen Paranoia. Allgemeine Zeitschrift für Psychiatrie und Psychisch-Gerichtliche Medizin, 52, 619-665.
+[^6]: Specht G. Über den pathologischen Affekt in der chronischen Paranoia. Festschrift der Erlanger Universität. Böhme, Leipzig 1901.
+[^7]: Berner P, Musalek M, Walter H. Psychopathological concepts of dysphoria. Psychopathology. 1987;20(2):93-100. doi: <https://doi.org/10.1159/000284485>. PMID: 3321124.
+[^8]: Musalek, M., Lesch, O. M., & Kieffer, W. (1987). Dysphoric states in the course of manic-depressive illness. Psychopathology, 20(2), 107–114. doi: <https://doi.org/10.1159/000284487>
+[^9]: Gabriel E. Dysphoric mood in paranoid psychoses. Psychopathology. 1987;20(2):101-6. doi: <https://doi.org/10.1159/000284486>. PMID: 3321119.

@@ -1,6 +1,7 @@
 {{- $href := .Destination | safeURL -}}
 {{- $parsed := urls.Parse .Destination -}}
 {{- $text := .Text | replaceRE `https?://(www\.)?` "" | safeHTML -}}
+{{- if eq $parsed.Host "doi.org" -}}{{ $text = slicestr $parsed.Path 1 }}{{- end -}}
 {{- $external := hasPrefix ($href | relURL) "http" -}}
 {{- if eq $parsed.Scheme "mailto" -}}
 {{- $address := $parsed.Opaque | base64Encode -}}
