@@ -28,3 +28,9 @@ markup:
     parser:
       attribute:
         block: true
+
+languages:
+  zh-CN:
+    languageCode: zh-CN
+    languageName: Chinese
+    weight: 1
