@@ -1,7 +1,7 @@
 baseURL: https://blog.mtf.wiki
 title: MtF.wiki 非正式笔记
 theme: mtfwiki-blog
-copyright: '&copy; $YEAR$ <https://MtF.wiki>'
+copyright: '&copy; $YEAR$ Project Trans'
 
 hasCJKLanguage: true
 defaultContentLanguage: zh-CN
@@ -13,9 +13,9 @@ params:
   description: MtF.wiki 非正式笔记
 
 author:
-  name: MtF.wiki
-  url: https://mtf.wiki
-  email: hi@mtf.wiki
+  name: Project Trans
+  url: https://project-trans.org
+  email: admin@project-trans.org
 
 social:
   twitter: MtFwiki
