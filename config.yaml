@@ -1,5 +1,5 @@
-baseURL: https://blog.mtf.wiki
-title: MtF.wiki 非正式笔记
+baseURL: https://blog.project-trans.org
+title: Project Trans 非正式笔记
 theme: mtfwiki-blog
 copyright: '&copy; $YEAR$ Project Trans'
 
@@ -10,7 +10,7 @@ enableRobotsTXT: true
 googleAnalytics: G-DVB8ZD276Q
 
 params:
-  description: MtF.wiki 非正式笔记
+  description: Project Trans 非正式笔记
 
 author:
   name: Project Trans
