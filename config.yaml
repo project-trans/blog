@@ -7,19 +7,17 @@ hasCJKLanguage: true
 defaultContentLanguage: zh-CN
 disableKinds: [taxonomy, term, RSS]
 enableRobotsTXT: true
-googleAnalytics: G-DVB8ZD276Q
 
 params:
   description: Project Trans 非正式笔记
-
-author:
-  name: Project Trans
-  url: https://project-trans.org
-  email: admin@project-trans.org
-
-social:
   twitter: MtFwiki
   telegram: MtFwiki
+  author:
+    name: Project Trans
+    url: https://project-trans.org
+    email: admin@project-trans.org
+  googleAnalytics:
+    ID: 'G-DVB8ZD276Q'
 
 markup:
   goldmark:
