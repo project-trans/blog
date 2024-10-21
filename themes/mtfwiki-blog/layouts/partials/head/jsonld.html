@@ -22,9 +22,9 @@
 {{-
 $publisher := dict
   "@type" "Organization"
-  "name" .Site.Author.name
-  "url" .Site.Author.url
-  "email" .Site.Author.email
+  "name" .Site.Params.Author.name
+  "url" .Site.Params.Author.url
+  "email" .Site.Params.Author.email
 -}}
 {{-
 $brand := dict
@@ -33,7 +33,7 @@ $brand := dict
   "name" .Site.Title
   "url" .Site.Home.Permalink
   "logo" (resources.GetMatch "favicon**").Permalink
-  "email" .Site.Author.email
+  "email" .Site.Params.Author.email
 -}}
 {{-
 $article := dict

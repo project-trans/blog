@@ -8,6 +8,6 @@
 {{- with resources.Get "main.scss" | toCSS | minify | fingerprint }}
 <link rel="stylesheet" href="{{ .Permalink }}">
 {{- end }}
-{{- if not .Site.IsServer }}
+{{- if not hugo.IsServer }}
 {{- partial "head/google-analytics" . }}
 {{- end }}
