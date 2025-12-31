@@ -91,6 +91,12 @@ a {
 
     color: var(--color-link-hover);
   }
+  &::before{
+    content: "[";
+  }
+  &::after{
+    content: "]";
+  }
 }
 
 h1,
